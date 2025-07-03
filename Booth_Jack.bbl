@@ -1,0 +1,144 @@
+\begin{thebibliography}{14}
+% BibTex style file: imsart-nameyear.bst, 2013-01-28
+% Default style options (sort=1,type=nameyear).
+% Used options (sort=1,type=nameyear).
+
+\bibitem[\protect\citeauthoryear{Davison and Hinkley}{1997}]{davison1997bootstrap}
+\begin{bbook}[author]
+\bauthor{\bsnm{Davison},~\bfnm{Anthony~C.}\binits{A.~C.}} \AND \bauthor{\bsnm{Hinkley},~\bfnm{David~V.}\binits{D.~V.}}
+(\byear{1997}).
+\btitle{Bootstrap Methods and Their Application}.
+\bpublisher{Cambridge University Press}, \baddress{Cambridge}.
+\end{bbook}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Efron}{1979}]{efron1979}
+\begin{barticle}[author]
+\bauthor{\bsnm{Efron},~\bfnm{Bradley}\binits{B.}}
+(\byear{1979}).
+\btitle{Bootstrap Methods: Another Look at the Jackknife}.
+\bjournal{The Annals of Statistics}
+\bvolume{7}
+\bpages{1--26}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Efron}{1982}]{efron1982jackknife}
+\begin{bbook}[author]
+\bauthor{\bsnm{Efron},~\bfnm{Bradley}\binits{B.}}
+(\byear{1982}).
+\btitle{The Jackknife, the Bootstrap, and Other Resampling Plans}.
+\bpublisher{SIAM}, \baddress{Philadelphia}.
+\end{bbook}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Efron and Tibshirani}{1993}]{efron1993introduction}
+\begin{bbook}[author]
+\bauthor{\bsnm{Efron},~\bfnm{Bradley}\binits{B.}} \AND \bauthor{\bsnm{Tibshirani},~\bfnm{Robert~J.}\binits{R.~J.}}
+(\byear{1993}).
+\btitle{An Introduction to the Bootstrap}.
+\bpublisher{Chapman \& Hall/CRC}, \baddress{New York}.
+\end{bbook}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Hastie, Tibshirani and Friedman}{2009}]{hastie2009elements}
+\begin{bbook}[author]
+\bauthor{\bsnm{Hastie},~\bfnm{Trevor}\binits{T.}}, \bauthor{\bsnm{Tibshirani},~\bfnm{Robert}\binits{R.}} \AND \bauthor{\bsnm{Friedman},~\bfnm{Jerome}\binits{J.}}
+(\byear{2009}).
+\btitle{The Elements of Statistical Learning: Data Mining, Inference, and Prediction}.
+\bpublisher{Springer}, \baddress{New York}.
+\end{bbook}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Horowitz}{2001}]{horowitz2001bootstrap}
+\begin{bbook}[author]
+\bauthor{\bsnm{Horowitz},~\bfnm{Joel~L.}\binits{J.~L.}}
+(\byear{2001}).
+\btitle{The Bootstrap}
+\bvolume{5}.
+\bpublisher{Elsevier}, \baddress{Amsterdam}.
+\end{bbook}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Pedregosa et~al.}{2011}]{scikit-learn}
+\begin{bmisc}[author]
+\bauthor{\bsnm{Pedregosa},~\bfnm{Fabian}\binits{F.}}, \bauthor{\bsnm{Varoquaux},~\bfnm{Ga\"{e}l}\binits{G.}}, \bauthor{\bsnm{Gramfort},~\bfnm{Alexandre}\binits{A.}}, \bauthor{\bsnm{Michel},~\bfnm{Vincent}\binits{V.}}, \bauthor{\bsnm{Thirion},~\bfnm{Bertrand}\binits{B.}}, \bauthor{\bsnm{Grisel},~\bfnm{Olivier}\binits{O.}}, \bauthor{\bsnm{Blondel},~\bfnm{Mathieu}\binits{M.}}, \bauthor{\bsnm{Prettenhofer},~\bfnm{Peter}\binits{P.}}, \bauthor{\bsnm{Weiss},~\bfnm{Ron}\binits{R.}}, \bauthor{\bsnm{Dubourg},~\bfnm{Vincent}\binits{V.}}, \bauthor{\bsnm{Vanderplas},~\bfnm{Jake}\binits{J.}}, \bauthor{\bsnm{Passos},~\bfnm{Alexandre}\binits{A.}}, \bauthor{\bsnm{Cournapeau},~\bfnm{David}\binits{D.}}, \bauthor{\bsnm{Brucher},~\bfnm{Matthieu}\binits{M.}}, \bauthor{\bsnm{Perrot},~\bfnm{Matthieu}\binits{M.}} \AND \bauthor{\bsnm{Duchesnay},~\bfnm{Edouard}\binits{E.}}
+(\byear{2011}).
+\btitle{Scikit-learn: Machine Learning in Python}.
+\bhowpublished{\url{https://scikit-learn.org}}.
+\bnote{Accessed: 2025-05-04}.
+\end{bmisc}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Quenouille}{1949}]{quenouille1949}
+\begin{barticle}[author]
+\bauthor{\bsnm{Quenouille},~\bfnm{M.~H.}\binits{M.~H.}}
+(\byear{1949}).
+\btitle{Approximate tests of correlation in time series}.
+\bjournal{Journal of the Royal Statistical Society. Series B (Methodological)}
+\bvolume{11}
+\bpages{68--84}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Rahman}{2019}]{Rahmanphdthesis}
+\begin{bphdthesis}[author]
+\bauthor{\bsnm{Rahman},~\bfnm{Fahmida}\binits{F.}}
+(\byear{2019}).
+\btitle{EVALUATE PROBE SPEED DATA QUALITY TO IMPROVE TRANSPORTATION MODELING}
+\btype{PhD thesis}.
+\bdoi{10.13023/etd.2019.137}
+\end{bphdthesis}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Shao and Tu}{1995}]{shao1995jackknife}
+\begin{bbook}[author]
+\bauthor{\bsnm{Shao},~\bfnm{Jun}\binits{J.}} \AND \bauthor{\bsnm{Tu},~\bfnm{Dongsheng}\binits{D.}}
+(\byear{1995}).
+\btitle{The Jackknife and Bootstrap}.
+\bpublisher{Springer}, \baddress{New York}.
+\end{bbook}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{{R Core Team}}{2025}]{rcoreteam}
+\begin{bmanual}[author]
+\bauthor{\bsnm{{R Core Team}}}
+(\byear{2025}).
+\btitle{R: A Language and Environment for Statistical Computing}
+\bpublisher{R Foundation for Statistical Computing},
+\baddress{Vienna, Austria}.
+\end{bmanual}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{{ScienceDirect Topics}}{}]{sciencedirectJackknife}
+\begin{bmisc}[author]
+\bauthor{\bsnm{{ScienceDirect Topics}}}
+\btitle{Jackknife Resampling}.
+\bhowpublished{\url{https://www.sciencedirect.com/topics/mathematics/jackknife-resampling}}.
+\bnote{Accessed: 2025-05-04}.
+\end{bmisc}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Tukey}{1958}]{tukey1958bias}
+\begin{barticle}[author]
+\bauthor{\bsnm{Tukey},~\bfnm{John~W.}\binits{J.~W.}}
+(\byear{1958}).
+\btitle{Bias and confidence in not quite large samples}.
+\bjournal{The Annals of Mathematical Statistics}
+\bvolume{29}
+\bpages{614--623}.
+\end{barticle}
+\endbibitem
+
+\bibitem[\protect\citeauthoryear{Wu}{1986}]{wu1986jackknife}
+\begin{barticle}[author]
+\bauthor{\bsnm{Wu},~\bfnm{C.~F.~Jeff}\binits{C.~F.~J.}}
+(\byear{1986}).
+\btitle{Jackknife, Bootstrap and Other Resampling Methods in Regression Analysis}.
+\bjournal{The Annals of Statistics}
+\bvolume{14}
+\bpages{1261--1295}.
+\end{barticle}
+\endbibitem
+
+\end{thebibliography}
